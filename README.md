@@ -11,7 +11,7 @@ Gist about me
 - ⚡ Competetive Programmer
 - 🌱 I’m currently learning and mastering python(libraries,frameworks)
 - 👯 I’m looking for challanging work opportunities ahead
-- 📫 How to reach me: <a href="mailto:mohit.bharti566@gmail.com"> lets get in touch </a>
+- 📫 How to reach me: <a href="mailto:mohit.bharti566@gmail.com "> lets get in touch </a>
 - 😄 Linkedin: <a href="https://www.linkedin.com/in/mohit-bharti-100965153/"> Linkedin </a>
 
 
