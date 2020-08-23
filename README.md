@@ -12,7 +12,7 @@ Gist about me
 - 🌱 I’m currently learning and mastering python(libraries,frameworks)
 - 👯 I’m looking for challanging work opportunities ahead
 - 📫 How to reach me: <a href="mailto:mohit.bharti566@gmail.com"> lets get in touch </a>
-- 😄 Linkedin: <a href " https://www.linkedin.com/in/mohit-bharti-100965153/ "> Linkedin </a>
+- 😄 Linkedin: <a href=" https://www.linkedin.com/in/mohit-bharti-100965153/"> Linkedin </a>
 
 
 An optimist in the making software engineer, looking forward to get a proper head-start in practical field, where I can apply skills
